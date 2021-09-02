@@ -1,0 +1,23 @@
+header, footer{
+        border:5px solid black;
+}
+body, h2 {
+    background-color: rgb(226, 203, 172);
+    
+}
+main, img{
+    background-color: rgba(255, 255, 240, 0.753);
+    Color: rgb(109, 86, 86);
+    font: normal 13px Arial, Helvetica, sans-serif;
+    line-height:1.6em;
+    border:10px ridge rgb(250, 248, 247);
+}
+h1 {
+    Color: rgb(109, 86, 86);
+    font: normal 13px Arial, Helvetica, sans-serif;
+    line-height:1.6em;
+    border:5px solid black;
+}
+#green-background {
+    background-color: green;
+}
